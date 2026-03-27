@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kato Trevor Thomas and I'm a full-stack web developer, born and raised from Uganda </p>
+<p align="left">My name is Kato Trevor Thomas and I'm a full-stack web developer, born and raised in Uganda </p>
 
 ###
 
